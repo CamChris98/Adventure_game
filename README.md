@@ -5,7 +5,7 @@ This program is a simple text adventure game that i wrote in C#, the game follow
 This program was written with the purpose of showing familiarity with the C# language, in using many different parts of the language and syntax like using variables, expressions, loops, functions, classes, and structures and unions. 
 
 ## My demonstration of the program:
-[Software Demo Video](http://youtube.link.goes.here)
+[video demonstration](https://youtu.be/_HSd-pZpzhg)
 
 ## Development Environment
 I used the Visual Studio IDE to develop this project. 
